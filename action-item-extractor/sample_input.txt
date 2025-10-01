@@ -1,0 +1,3 @@
+Purpose: Example meeting notes to test your agent.
+
+Helps you validate your parser and shows others how to use it.
