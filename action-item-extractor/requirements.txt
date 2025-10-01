@@ -1,1 +1,7 @@
-Purpose: List Python dependencies so anyone can run your code.
+#Purpose: List Python dependencies so anyone can run your code.
+
+pandas          # for handling CSVs and tables
+numpy           # common numerical operations
+openai          # for GPT-based AI parsing later
+spacy           # optional NLP library for text processing
+

@@ -1,3 +1,11 @@
-Purpose: Example meeting notes to test your agent.
+#Purpose: Example meeting notes to test your agent.
 
-Helps you validate your parser and shows others how to use it.
+#Helps you validate your parser and shows others how to use it.
+
+
+Meeting Notes:
+
+- Assign design task to Alice
+- Follow up with Bob on API status
+- Prepare slides for next week
+
