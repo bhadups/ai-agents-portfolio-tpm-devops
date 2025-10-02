@@ -1,0 +1,17 @@
+Meeting Notes - Project Alpha (Oct 1, 2025)
+
+Discussion Points:
+1. Alice needs to finalize the design mockups by next Monday.
+2. We should follow up with Bob regarding the API integration status.
+3. Carol will prepare slides for the stakeholder meeting on Friday.
+4. Schedule a team review session for the new feature rollout.
+5. David mentioned the QA team might need additional testing resources.
+6. Emily to update the project documentation after the demo.
+7. Decide on the marketing approach for the next sprint.
+
+Random Notes:
+- Everyone appreciated last week’s progress.
+- Next week’s team lunch is on Wednesday.
+
+End of notes.
+
