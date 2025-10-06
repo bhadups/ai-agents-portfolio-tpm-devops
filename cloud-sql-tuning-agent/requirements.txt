@@ -1,0 +1,8 @@
+pandas
+openai
+python-dateutil
+sqlparse
+psycopg2-binary
+mysql-connector-python
+tabulate
+

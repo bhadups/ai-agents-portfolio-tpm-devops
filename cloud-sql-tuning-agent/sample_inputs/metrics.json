@@ -1,0 +1,14 @@
+{
+  "instance_id": "project:region:instance-1",
+  "timestamp": "2025-10-01T10:00:00Z",
+  "cpu_utilization_pct": 82.3,
+  "memory_utilization_pct": 74.9,
+  "storage_allocated_gb": 500,
+  "storage_used_gb": 452,
+  "active_connections": 285,
+  "max_connections_configured": 300,
+  "io_utilization_pct": 68,
+  "slow_queries_count_5min": 12,
+  "avg_query_latency_ms": 320
+}
+

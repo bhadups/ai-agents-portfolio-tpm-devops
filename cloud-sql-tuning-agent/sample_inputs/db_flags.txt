@@ -1,0 +1,6 @@
+innodb_buffer_pool_size=16G
+max_connections=300
+query_cache_type=0
+log_min_duration_statement=1000
+work_mem=4MB
+
